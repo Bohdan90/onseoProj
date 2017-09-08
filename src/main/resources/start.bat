@@ -1,0 +1,1 @@
+java -Duser.language=en -Duser.region=us -jar httpddos-test.onseo.jar conf.properties
